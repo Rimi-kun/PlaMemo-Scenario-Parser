@@ -2,8 +2,6 @@
 
 Scenario parser for the Plastic Memories visual novel
 
-[Download PlaMemo Scenario Parser](https://codeberg.org/Nexlie/PlaMemo-Scenario-Parser/releases)
-
 ## How to use
 
 1. Decompile the SCN scenario files with [FreeMote Toolkit](https://github.com/UlyssesWu/FreeMote/releases)
